@@ -1,1 +1,0 @@
-":3,"number_of_bedrooms":2,"number_of_cupboards":1}]
