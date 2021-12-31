@@ -1,2 +1,2 @@
-web: gunicorn -b :$PORT app:app --preload
-web:gunicorn kosan-heroku:app
+# web: gunicorn -b :$PORT app:app --preload
+web:gunicorn heroku:app
